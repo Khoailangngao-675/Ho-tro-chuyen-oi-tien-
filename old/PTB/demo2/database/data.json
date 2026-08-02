@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Train to Busan",
+        "date": "01/01/2000",
+        "image": "gui/image/Train_to_Busan (1).jpg",
+        "rating": 5.0,
+        "link": ""
+    },
+    {
+        "id": 2,
+        "title": "Conan Movie 29",
+        "date": "01/01/2000",
+        "image": "gui/image/Poster_Conan_Movie_29.jpg",
+        "rating": 5.0,
+        "link": ""
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter",
+        "date": "01/01/2000",
+        "image": "gui/image/fdea56fa-2703-47c1-8da8-70fc5382e1ea.jpg",
+        "rating": 5.0,
+        "link": ""
+    },
+    {
+        "id": 5,
+        "title": "Escape room",
+        "date": "01/01/2000",
+        "image": "gui/image/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_FMjpg_UX1000_.jpg",
+        "rating": 5.0,
+        "link": ""
+    },
+    {
+        "id": 6,
+        "title": "Fast and Furious",
+        "date": "01/01/2000",
+        "image": "gui/image/s-l1200.jpg",
+        "rating": 5.0,
+        "link": ""
+    },
+    {
+        "id": 7,
+        "title": "Squid game",
+        "date": "01/01/2000",
+        "image": "gui/image/images.jpeg",
+        "rating": 5.0,
+        "link": ""
+    }
+]

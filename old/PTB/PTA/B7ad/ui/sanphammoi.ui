@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1000</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="maximumSize">
+    <size>
+     <width>1000</width>
+     <height>800</height>
+    </size>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <widget class="QWidget" name="widget" native="true">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(13, 15, 35);
+border-radius : 20px ; </string>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout_3">
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout">
+         <item>
+          <widget class="QWidget" name="widget_2" native="true">
+           <property name="maximumSize">
+            <size>
+             <width>100</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 35px ;</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QWidget" name="widget_3" native="true">
+           <property name="styleSheet">
+            <string notr="true">
+
+border-radius : 39px ;</string>
+           </property>
+           <widget class="QLabel" name="label">
+            <property name="geometry">
+             <rect>
+              <x>120</x>
+              <y>0</y>
+              <width>611</width>
+              <height>41</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <family>ROG Fonts STRIX SCAR</family>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 15px</string>
+            </property>
+            <property name="text">
+             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#2f6190;&quot;&gt;Times&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+            </property>
+           </widget>
+           <widget class="QWidget" name="widget_4" native="true">
+            <property name="geometry">
+             <rect>
+              <x>-140</x>
+              <y>-410</y>
+              <width>251</width>
+              <height>451</height>
+             </rect>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 80px ;</string>
+            </property>
+           </widget>
+           <widget class="QWidget" name="widget_5" native="true">
+            <property name="geometry">
+             <rect>
+              <x>740</x>
+              <y>-410</y>
+              <width>251</width>
+              <height>451</height>
+             </rect>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 80px ;</string>
+            </property>
+           </widget>
+           <widget class="QWidget" name="widget_6" native="true">
+            <property name="geometry">
+             <rect>
+              <x>10</x>
+              <y>60</y>
+              <width>251</width>
+              <height>411</height>
+             </rect>
+            </property>
+            <property name="font">
+             <font>
+              <family>ROG Fonts</family>
+             </font>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 35px ;</string>
+            </property>
+            <widget class="QLabel" name="label_2">
+             <property name="geometry">
+              <rect>
+               <x>20</x>
+               <y>20</y>
+               <width>211</width>
+               <height>41</height>
+              </rect>
+             </property>
+             <property name="font">
+              <font>
+               <family>ROG Fonts STRIX SCAR</family>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(47, 63, 115);
+border-radius : 15px ;</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; color:#2f6190;&quot;&gt;morning (6 h )&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </widget>
+           <widget class="QWidget" name="widget_7" native="true">
+            <property name="geometry">
+             <rect>
+              <x>280</x>
+              <y>60</y>
+              <width>271</width>
+              <height>411</height>
+             </rect>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 35px ;</string>
+            </property>
+            <widget class="QLabel" name="label_3">
+             <property name="geometry">
+              <rect>
+               <x>30</x>
+               <y>20</y>
+               <width>211</width>
+               <height>41</height>
+              </rect>
+             </property>
+             <property name="font">
+              <font>
+               <family>ROG Fonts STRIX SCAR</family>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(47, 63, 115);
+border-radius : 15px ;</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </widget>
+           <widget class="QWidget" name="widget_8" native="true">
+            <property name="geometry">
+             <rect>
+              <x>570</x>
+              <y>60</y>
+              <width>261</width>
+              <height>411</height>
+             </rect>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">background-color: rgb(38, 50, 85);
+border-radius : 35px ;</string>
+            </property>
+            <widget class="QLabel" name="label_4">
+             <property name="geometry">
+              <rect>
+               <x>30</x>
+               <y>20</y>
+               <width>211</width>
+               <height>41</height>
+              </rect>
+             </property>
+             <property name="font">
+              <font>
+               <family>ROG Fonts STRIX SCAR</family>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(47, 63, 115);
+border-radius : 15px ;</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </widget>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1000</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,10 @@
+.hellocu h1 {
+color :aqua
+}
+.hellocu ol {
+    list-style:decimal;
+}
+.hellocu {
+    background-color: rgb(123, 177, 190);
+    border-radius: 12px;
+}

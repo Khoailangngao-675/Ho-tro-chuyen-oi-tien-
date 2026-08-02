@@ -1,0 +1,12 @@
+link tới font awsome:
+    https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css
+
+position: chỉnh vị trí
+    có các thuộc tính
+    fixed : ghim cho phần đc chọn lun hiển thị trên màn hình (ko di chuyển)
+    relative : căn theo vị trí của vật trong   <div>
+
+
+
+."class"
+#"ID"

@@ -1,0 +1,11 @@
+
+.trangtrithu{
+    background-color: rgb(123, 177, 190);
+    /* */
+    border: 10px wheat;
+    border-radius : 8px ; }
+.trangtrithu img {
+    width: 300px;
+    height: 300px; 
+
+}

@@ -1,0 +1,21 @@
+.header{
+    background-color: rgb(255, 91, 91);
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+}
+section{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(211, 232, 251);
+    color: black;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    align-items: flex-end;
+    background-color: antiquewhite ;
+}
+body{
+    background-color: #f4f4f4;
+}

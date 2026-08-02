@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background-color: #1E1E24;
+}
+.container{
+    padding: 30px;
+}
+.button{
+    display: flex;
+    margin: 40px;
+    padding: 15px;
+    justify-content: space-between;
+}
+ .cacm{ 
+    display: flex;
+    justify-self: end;
+    width: 40px;
+}
+
+
+
+
+.container.search-bar i{
+    position:relative;
+    /* trong txt */
+    left: -30px ; 
+    /* di chuyển sang trái */
+    bottom : 20px;
+    /* di chuyển xuống */
+    margin: 2px;;
+    /* nớ rộng khoảng cách giữa cách phần tử trong div */
+    padding: 20px;
+   /* giúp cho các phần tử trong div to ra */
+}
+.container.search-bar{
+    display: flex;
+}
