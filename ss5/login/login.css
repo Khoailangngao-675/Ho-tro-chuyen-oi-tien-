@@ -1,0 +1,29 @@
+.login-form {
+    display: flex;
+    flex-direction: column;    
+    width: 250px;
+}
+.maunen{
+    min-height: 50vh;
+    background-color: white;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border-radius:15px;
+}
+.chinhsua{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-image: url("../img/anhnenlogin.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

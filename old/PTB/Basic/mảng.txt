@@ -1,0 +1,10 @@
+| Lệnh        | Tác dụng                     | Ví dụ             |
+| ----------- | ---------------------------- | ----------------- |
+| `append()`  | Thêm 1 phần tử vào cuối      | `a.append(4)`     |
+| `insert()`  | Thêm vào vị trí chỉ định     | `a.insert(1, 10)` |
+| `remove()`  | Xóa phần tử theo giá trị     | `a.remove(2)`     |
+| `pop()`     | Xóa phần tử theo vị trí      | `a.pop(1)`        |
+| `sort()`    | Sắp xếp tăng dần             | `a.sort()`        |
+| `reverse()` | Đảo ngược list               | `a.reverse()`     |
+| `index()`   | Tìm vị trí của phần tử       | `a.index(2)`      |
+| `count()`   | Đếm số lần phần tử xuất hiện | `a.count(2)`      |
