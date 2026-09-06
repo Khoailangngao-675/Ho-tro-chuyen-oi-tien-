@@ -22,8 +22,12 @@
 }
 
 body {
-    background-image: url("../img/anhnenlogin.png");
+    background-image: url("../img/NEN.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+#passwork, #username, a, button {
+    margin: 5px;
+    font-family: "Arial";
 }

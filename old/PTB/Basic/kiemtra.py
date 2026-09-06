@@ -1,10 +1,12 @@
-nguoi_nhap = input()
-x = nguoi_nhap.split(" ")
+L,K = list(map(int,input().split()))
+N = input()
 
-ho = x[0]
-ten_dem = x[1]
-ten = x[2]
-
-print("Ho", ho)
-print("Ten dem", ten_dem)
-print("Ten", ten)
+for i in "QWERTYUIOPASDFGHJKLZXCVBNM":
+    d=0
+    for j in range(L):
+        if N[j] == i :
+            d += 1
+        if d >= K:
+            print(i,end="")
+            break
+        
